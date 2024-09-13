@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  /* /////////////navbar////////////// */
+  .nav-link:hover{
+    color: green;
+    }
+  /* /////////////////end nav//////////////// */
+   
+  /*//////////////////////////header//////////////////// */ 
+  
+  .banner-home{
+  background-image: url(./img/section1.jpg)  ;
+  background-size: cover;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  }
+  .btn:hover{
+  background-color: gold;
+  color: black;
+  border: none;
+  
+  }
+  
+  /* //////////////////////////end header//////////////////////// */
+  
